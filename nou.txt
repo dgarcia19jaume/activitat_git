@@ -1,1 +1,1 @@
-punt 20
+punt 20 pull
